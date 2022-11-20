@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @habeeb-an
-- 👀 I’m interested in python
+- 👀 I’m interested in full stack devolepment
 - 🌱 I’m currently learning responsive Web Designing
 - 📫 How to reach me (https://www.linkedin.com/in/habeeb-an/)
 
