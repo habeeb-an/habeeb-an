@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @habeeb-an<br>- 👀 I’m interested in full stack devolepment<br>- 🌱 I’m currently Doing projeccts<br>- ⛳ I'm  planing to learn in near future on GO lang,JS<br>- 📫 How to reach me https://www.linkedin.com/in/habeeb-an/
+- 👋 Hi, I’m @habeeb-an<br>- 👀 I’m interested in full stack devolepment<br>- 🌱 I’m currently Doing projeccts with in MERN Stack<br>- ⛳ I'm  planing to learn in near future on GO lang<br>- 📫 How to reach me https://www.linkedin.com/in/habeeb-an/
 
 
 ## 🌐 Socials:
