@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN stack projects<br>
 🔏 Interested in learning new tech stack through Open source projects<br>
-🤝 interested in  Open source Contributions <br>
+🤝 Interested in  Open source Contributions <br>
 🌱 I’m currently learning to add Features to the MERN stack application<br>
 💼 Looking for Opportunities to collaborate<br><br>
 ⚡ Lightning fact: Verily after every hardship there is Easiness
